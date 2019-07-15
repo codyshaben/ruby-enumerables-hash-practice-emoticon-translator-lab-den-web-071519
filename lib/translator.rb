@@ -1,4 +1,4 @@
-
+require "load_library"
 
 def load_library()
   # code goes here
