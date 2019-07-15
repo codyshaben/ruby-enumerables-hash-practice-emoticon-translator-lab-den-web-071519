@@ -1,4 +1,4 @@
-load
+module
 
 def load_library()
   # code goes here
