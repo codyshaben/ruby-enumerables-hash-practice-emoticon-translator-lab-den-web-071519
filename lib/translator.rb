@@ -1,4 +1,4 @@
-module yml
+module Yml
 
 def load_library
   # code goes here
