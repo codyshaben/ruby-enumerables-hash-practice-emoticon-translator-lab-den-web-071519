@@ -1,6 +1,6 @@
 
 
-def load_library("./lib/emoticons.yml")
+def load_library(./lib/emoticons.yml)
   # code goes here
 end
 
