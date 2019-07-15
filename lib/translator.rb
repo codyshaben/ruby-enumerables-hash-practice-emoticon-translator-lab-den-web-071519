@@ -1,4 +1,4 @@
-emoticons_file = "./lib/emoticons.yml"
+require
 
 def load_library(emoticons_file)
   
