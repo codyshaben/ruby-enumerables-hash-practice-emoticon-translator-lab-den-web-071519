@@ -1,6 +1,6 @@
 
 
-def load_library
+def load_library( "./lib/emoticons.yml")
   require "./lib/emoticons.yml"
 end
 
