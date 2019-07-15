@@ -1,5 +1,4 @@
-$ gem install pry
-$ pry
+
 
 def load_library()
   # code goes here
